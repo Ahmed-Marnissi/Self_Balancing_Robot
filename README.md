@@ -1,29 +1,27 @@
 # Self_Balancing_Robot
-This project implements a self-balancing robot using an Arduino microcontroller and an MPU6050 sensor. The robot is designed to maintain balance while moving on two wheels and can be controlled through a remote control.
+This project implements a self-balancing robot using an Arduino microcontroller and an ADXL345 sensor. The robot is designed to maintain balance while moving on two wheels .
 
-Table of Contents
+#Table of Contents
 Hardware Requirements
 Software Requirements
-Installation
-Usage
-Contributing
-License
-Hardware Requirements
+Block diagram
+Circuit diagram
+
+#Hardware Requirements
 Arduino Uno or similar microcontroller
-MPU6050 sensor
+ADXL345 sensor
 Motor driver module (L298N)
 DC motors (2)
-Wheel encoders (2)
 Wheels (2)
 Battery pack (6-12V)
-Remote control (optional)
-Software Requirements
+
+#Software Requirements
 Arduino IDE
 Libraries:
 Wire
 PID
-MPU6050
-Encoder
+ADXL345
+
 Installation
 Connect the components according to the circuit diagram in the "circuit-diagram.png" file.
 Upload the "self_balancing_robot.ino" file to the Arduino board using the Arduino IDE.
