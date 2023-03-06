@@ -16,23 +16,14 @@ DC motors (2) <br />
 Wheels (2) <br />
 Battery pack (6-12V) <br />
 
-# Software Requirements
-Arduino IDE
-Libraries:
-Wire
-PID
-ADXL345
+# Software Requirements 
 
-Installation
-Connect the components according to the circuit diagram in the "circuit-diagram.png" file.
-Upload the "self_balancing_robot.ino" file to the Arduino board using the Arduino IDE.
-Usage
-Turn on the power supply for the robot.
-Wait for the MPU6050 sensor to initialize (the LED on the Arduino board will stop blinking).
-Place the robot on a flat surface and it should balance itself.
-Use a remote control to move the robot forward, backward, left, and right.
-Contributing
-Contributions to this project are always welcome. To contribute, please fork this repository, make your changes, and submit a pull request.
+Arduino IDE <br />
+Libraries: <br />
+Wire <br />
+PID <br />
+ADXL345 <br />
 
-License
-This project is licensed under the MIT License - see the LICENSE.md file for details.
+# Block diagram 
+
+# Circuit diagram  
