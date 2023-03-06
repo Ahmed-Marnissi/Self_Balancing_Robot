@@ -9,12 +9,12 @@ This project implements a self-balancing robot using an Arduino microcontroller 
 3.Circuit diagram
 
 # Hardware Requirements
-Arduino Uno or similar microcontroller
-ADXL345 sensor
-Motor driver module (L298N)
-DC motors (2)
-Wheels (2)
-Battery pack (6-12V)
+Arduino Uno or similar microcontroller <br />
+ADXL345 sensor <br />
+Motor driver module (L298N) <br />
+DC motors (2) <br />
+Wheels (2) <br />
+Battery pack (6-12V) <br />
 
 # Software Requirements
 Arduino IDE
