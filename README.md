@@ -1,6 +1,10 @@
 # Self_Balancing_Robot
 This project implements a self-balancing robot using an Arduino microcontroller and an ADXL345 sensor. The robot is designed to maintain balance while moving on two wheels .
 
+
+https://user-images.githubusercontent.com/109542834/223206307-f46d46f4-f7cf-4390-8f74-202fddfa98ce.mp4
+
+
 # Table of Contents :
 
 1.Hardware Requirements
@@ -26,4 +30,9 @@ ADXL345 <br />
 
 # Block diagram 
 
+![bloc](https://user-images.githubusercontent.com/109542834/223206854-d4725e0f-bcf3-4b47-b55b-feda3352f8fc.png)
+
+
 # Circuit diagram  
+![image](https://user-images.githubusercontent.com/109542834/223207215-5e6a3cad-830b-4c56-af43-a5df293a3f6e.png)
+
